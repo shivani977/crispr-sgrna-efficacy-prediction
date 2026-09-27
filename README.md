@@ -56,10 +56,6 @@ Intermediate efficacy values were excluded from the classification task.
 Data Availability
 The dataset is not included in this repository
 
-To reproduce these results, you will need to obtain the dataset from the original source and place it in the project root with the filename:
-
-13059_2018_1459_MOESM5_ESM (1).xlsx
-
 The Excel file should contain sheets named: hela, hct116, hl60, hek293t, each with columns:
 
 - sgRNA - 20-nucleotide sequence
